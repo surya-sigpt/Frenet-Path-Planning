@@ -1,3 +1,5 @@
 .vscode/
+
+### build folder $ output folder ignore
 build/
 output/
